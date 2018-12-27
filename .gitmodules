@@ -1,0 +1,3 @@
+[submodule "fastrange"]
+	path = fastrange
+	url = https://github.com/lemire/fastrange
