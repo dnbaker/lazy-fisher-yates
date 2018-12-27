@@ -1,3 +1,6 @@
 [submodule "fastrange"]
 	path = fastrange
 	url = https://github.com/lemire/fastrange
+[submodule "aesctr"]
+	path = aesctr
+	url = https://github.com/dnbaker/aesctr
